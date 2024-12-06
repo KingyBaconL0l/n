@@ -1,0 +1,7 @@
+J:\Files\VS_Projects\CyberX\CHAT-Client\obj\Debug\CHAT-Client.csproj.AssemblyReference.cache
+J:\Files\VS_Projects\CyberX\CHAT-Client\obj\Debug\CHAT-Client.csproj.CoreCompileInputs.cache
+J:\Files\VS_Projects\CyberX\CHAT-Client\bin\Debug\CHAT-Client.exe.config
+J:\Files\VS_Projects\CyberX\CHAT-Client\bin\Debug\CHAT-Client.exe
+J:\Files\VS_Projects\CyberX\CHAT-Client\bin\Debug\CHAT-Client.pdb
+J:\Files\VS_Projects\CyberX\CHAT-Client\obj\Debug\CHAT-Client.exe
+J:\Files\VS_Projects\CyberX\CHAT-Client\obj\Debug\CHAT-Client.pdb
